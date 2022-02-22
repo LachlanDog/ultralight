@@ -1,8 +1,6 @@
 ---
-layout: page
 title: People
-permalink: /people/
-isNavItem: true
+permalink: /peopleNav/
 ---
 
 # List by name
