@@ -1,5 +1,6 @@
 ---
 layout: mine
+title: Aloy
 ---
 
 # Aloy
